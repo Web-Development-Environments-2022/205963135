@@ -32,7 +32,7 @@ This is a simple website, mainly HTML, css and a few Javascript script codes. I 
 
 - **Contact Me** - a form to write to my mail, there is a smiley face that if pressed will open a small window with a variety of smileis.
 
-  ![](Contact_Me.png)
+  ![](Contact_Me_explain.png)
 
 ## Website URL of the actual assignment:
 
