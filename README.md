@@ -36,7 +36,7 @@ This is a simple website, mainly HTML, css and a few Javascript script codes. I 
 
 ## Website URL of the actual assignment:
 
-https://web-development-environments-2021.github.io/205963135.io/
+https://web-development-environments-2022.github.io/205963135/
 
 ## ID:
 
