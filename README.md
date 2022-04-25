@@ -3,6 +3,7 @@
 ## Overview
 
 This is a simple website, mainly HTML, css and a few Javascript script codes. I did my website on the cartoon Alma Madrigal from the Disney movie Encanto.
+The top menu has icons of the subject it linked to, for example the question mark icon is about me, the photos icon is Alma's photos and so on.
 
 ## What's the site contains?
 
@@ -30,7 +31,7 @@ This is a simple website, mainly HTML, css and a few Javascript script codes. I 
 
   ![](QandA.png)
 
-- **Contact Me** - a form to write to my mail, there is a smiley face that if pressed will open a small window with a variety of smileis.
+- **Contact Me** - a form to write to my mail, there is a smiley face that if pressed will open a small window with a variety of smiles.
 
   ![](Contact_Me_explain.png)
 
